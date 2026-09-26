@@ -1,4 +1,4 @@
-# TLS Certificate Generator & EBOOT Certificate Patcher
+# Certificate Generator & EBOOT Certificate Patcher
 
 The project creates a complete certificate chain:
 
